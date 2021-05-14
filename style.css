@@ -1,0 +1,58 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color: lightpink;
+}
+.personal{
+    background-color: white;
+    color: darkred;
+}
+.personal img{
+    width: 70px;
+    height: 70px;
+}
+.maindiv{
+    background-color:lightpink;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+.maindiv label{
+    background-color:transparent;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px black;
+    width: 310px;
+}
+#cam,#Result{
+    border: 2px solid black;
+    width: 310px;
+    height: 310px;
+    box-shadow: 5px 5px 18px black;
+}
+.maindiv button{
+    width: 310px;
+    font-size: 18px;
+    box-shadow: 5px 5px 18px black;
+    border: black 2px solid;
+}
+.copy{
+bottom: 0;
+position: fixed;
+background-color: white;
+color: black;
+line-height: 5;
+text-align: center;
+width: 100%;
+}
+.footerdiv{
+    margin-bottom: 50px;
+}
+.footerdiv h4{
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+.footerdiv img{
+    width: 70px;
+}
